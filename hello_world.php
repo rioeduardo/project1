@@ -1,7 +1,7 @@
 <?php
 	echo "Hello World!";
 
-	echo "nice!";
+	echo "more mortar";
 
 	echo "update now";
 ?>
