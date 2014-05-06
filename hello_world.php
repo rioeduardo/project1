@@ -3,5 +3,5 @@
 
 	echo "nice!";
 
-	echo "update";
+	echo "update now";
 ?>
