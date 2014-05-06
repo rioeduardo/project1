@@ -1,7 +1,7 @@
 <?php
 	echo "Hello World!";
 
-	echo "quickrete";
+	echo "more quickrete";
 
 	echo "update now";
 ?>
