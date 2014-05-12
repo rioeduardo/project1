@@ -6,5 +6,5 @@
 
 	echo "new update available!1";
 
-	echo "same test!";
+	echo "same testing!";
 ?>
