@@ -4,7 +4,5 @@
 	echo "ok";
 	echo "update now";
 
-	echo "new update available!1";
-
-	echo "same testing!";
+	echo "new update available!2";
 ?>
