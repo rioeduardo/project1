@@ -4,5 +4,5 @@
 	echo "ok";
 	echo "update now";
 
-	echo "new update available! nice";
+	echo "new update available! nice bad";
 ?>
